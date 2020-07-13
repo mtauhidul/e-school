@@ -1,0 +1,43 @@
+img{
+    width: 100%;
+}
+header{
+    height: 576px;
+    background: #F0FFF0;
+}
+a{
+    color: black;
+}
+#logo{
+    width: 200px;
+    height: 60px;
+}
+.btn{
+    border-radius: 33px;
+}
+.banner-left{
+    padding-top: 85px;
+}
+#green{
+    color: #21B573;
+}
+#cards{
+    padding: 42px 0 98px 0;
+}
+.card{
+    text-align: center;
+    align-items: center;
+    padding: 55px 19px 40px 19px;
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+    color: #413960;
+}
+#with-shadow{
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.card-img-top{
+    width: 70px;
+    height: 85px;
+}
