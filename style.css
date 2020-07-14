@@ -1,3 +1,4 @@
+
 img{
     width: 100%;
 }
@@ -24,7 +25,7 @@ a{
 #cards{
     padding: 42px 0 98px 0;
 }
-.card{
+.intro-card{
     text-align: center;
     align-items: center;
     padding: 55px 19px 40px 19px;
@@ -37,7 +38,55 @@ a{
     background-color: white;
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
 }
-.card-img-top{
+.sizing{
     width: 70px;
     height: 85px;
+}
+.heading{
+    text-align: center;
+    color: #413960;
+    margin-bottom: 62px;
+}
+#on-courses{
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+.course-card{
+    border-radius: 18px;
+    border: none;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+.icon{
+    width: 18px;
+    height: 20px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.dimension{
+    padding: 24px 20px 0 19px;
+    border-radius: 11px;
+}
+#man{
+    width: 120px;
+    height: 120px;
+    margin-right: 52px;
+}
+footer{
+    height: 370px;
+    background: #282531;
+    margin-top: 106px;
+    color: white;
+}
+.end{
+    padding-top: 55px;
+}
+.thicker-text{
+    font-weight: 700;
+}
+.copy{
+    margin-top: 100px;
+    text-align: center;
+    color: lightgray;
 }
